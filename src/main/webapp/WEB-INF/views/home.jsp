@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>
-	Hello world!z  
+	Hello world!  
 	Hello world!!!
 </h1>
 
